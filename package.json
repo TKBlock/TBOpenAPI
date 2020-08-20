@@ -15,7 +15,7 @@
     "apollo-datasource-rest": "^0.1.5",
     "apollo-server": "2.9.12",
     "apollo-server-testing": "2.9.12",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "dotenv": "^6.1.0",
     "graphql": "14.5.8",
     "isemail": "^3.1.3",
